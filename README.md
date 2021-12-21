@@ -5,10 +5,6 @@
 - 🌱 I'm creating/editing scripts or many another thinks to FiveM
 - 🌱 I’m currently learning everything 🤣
 
-### Contact with me:
-
-[<img align="left" alt="https://discord.gg/HtPSCZrxnC" width="22px" src="https://github.com/NYRI4/Discolored/blob/master/assets/crash.svg" />][discord]
-
 <br />
 
 ### Languages in which I Creating or Editing scripts or helpful applications:
