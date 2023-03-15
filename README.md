@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Home Developer!!
 
-- 🌱 I'm creating/editing scripts or many another thinks to FiveM
+- 🌱 I'm creating/editing scripts or many another things to FiveM and Arma 3
 - 🌱 I’m currently learning everything 🤣
 
 <br />
