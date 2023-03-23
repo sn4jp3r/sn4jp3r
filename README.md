@@ -4,16 +4,20 @@
 
 - 🌱 I'm creating/editing scripts or many other things to FiveM and Arma 3
 - 🌱 I’m currently learning everything 🤣
-
+<br />
 <br />
 
-### Languages in which I Creating or Editing scripts or helpful applications:
-
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React.js" width="26px" src="https://user-images.githubusercontent.com/76629105/225705344-7f660698-835b-4073-abf4-16c7ec438909.png" />
+### Languages and Tools
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/javascript.svg" />
+  <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/typescript.svg" />
+  <a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" />
+  <a href="https://nextjs.org/" target="_blank"> <img class="icon" align="left" alt="Next.js" width="32px" src="./src/icons/nextjs.svg" />
+  <a href="https://www.java.com/" target="_blank"> <img class="icon" align="left" alt="Java" width="32px" src="./src/icons/java.svg"/>
+  <a href="https://www.mongodb.com/" target="_blank"> <img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" />
+  <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="./src/icons/git.svg"/>
+  <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" />
+</div>
 
 <br />
 <br />
