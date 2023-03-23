@@ -21,3 +21,14 @@
 
 <br />
 <br />
+
+### Softwares
+
+<div>
+  <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="./src/icons/vscode.svg" />
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img class="icon" align="left" alt="IntelliJ IDEA" width="32px" src="./src/icons/intellij.svg" />
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img class="icon" align="left" alt="XD" width="32px" src="./src/icons/adobe/xd.svg"/> </a>
+</div>
+
+<br />
+<br />
