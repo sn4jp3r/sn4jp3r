@@ -9,9 +9,9 @@
 
 ### Languages and Tools
 <div>
-  <a target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/html.svg" />
-  <a target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/css.svg" />
-  <a href="" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/DiscordBots.svg" />
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/html.svg" />
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/css.svg" />
+  <a href="https://discord.js.org/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/DiscordBots.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/javascript.svg" />
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/typescript.svg" />
   <a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" />
