@@ -36,7 +36,10 @@
 <br />
 <br />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lemqiotuovxwgqk3raupilraxu&unique={true|1|on|yes})
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lemqiotuovxwgqk3raupilraxu&unique={true|1|on|yes})
+</div>
+    
     
 <br />
 <br />
