@@ -1,8 +1,8 @@
-### Hello, I'm Bartek and I'm 18 years old 
+### Hello, I'm Bartek and I'm 19 years old 
 
 ## I'm a Student, and Home Developer
 
-🌱 I'm creating/editing scripts or many other things to FiveM and Arma 3
+🌱 I'm creating/editing scripts or many other things to Arma 3
 🌱 I’m currently learning everything 🤣
 <br/>
 <br/>
