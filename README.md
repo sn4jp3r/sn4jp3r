@@ -34,16 +34,6 @@
 <br />
 <br />
     
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sn4jp3r&show_icons=true&theme=transparent" height="200" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lemqiotuovxwgqk3raupilraxu&unique={true|1|on|yes})"
-</div>
-    
 <br />
 <br />
  
