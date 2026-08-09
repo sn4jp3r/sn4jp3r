@@ -1,13 +1,21 @@
 ### Hello, I'm Bartek and I'm 22 years old 
 
-## I'm a Student, and Home Developer
+### Developer • Arma 3 Enthusiast • High Readiness Unit
 
-🌱 I'm creating/editing scripts or many other things to Arma 3
-🌱 I’m currently learning everything 🤣
 <br/>
+I'm a developer focused on **web development, backend systems, automation and Arma 3**.
 <br/>
+🪖 **High Readiness Unit (HRU)** — Arma 3 military simulation community I'm building and developing for.
 
-### Languages and Tools
+### 🔧 Currently building
+
+- 🌐 HRU Website & Web Platform
+- 🖥️ Arma 3 / Reforger Server Management
+- 🤖 Discord Bot & Server Monitoring
+- 🔐 Authentication, Applications & Admin Panel
+- 🎮 Custom Arma 3 Scripts & Systems
+
+### 💻 Tech
 <div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/typescript.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/javascript.svg" />
@@ -33,7 +41,7 @@
 
 <br />
 <br />
-    
+    > **Build. Improve. Deploy. Repeat.**
 <br />
 <br />
  
